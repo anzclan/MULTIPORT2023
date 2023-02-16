@@ -44,3 +44,6 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
 <pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT2023/install.sh && chmod +x install.sh && ./install.sh</code></pre>
 
 ### INSTALL KEY -- > https://t.me/dotycat/427
+
+## VERSION
+V1.6.1 - 16/02/2023
