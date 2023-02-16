@@ -47,5 +47,6 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
 
 ## VERSION
 V1.6.1 - 16/02/2023
- - INCOMPLET
+
+## INCOMPLET
    - SOCKS (ceck user, View User config, Renew Users , etc)
