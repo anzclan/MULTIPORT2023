@@ -48,7 +48,7 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
      - Proxy Squid             : 3128 & 8000
      
 ### INSTALATION
-<pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT2023/install.sh && chmod +x install.sh && ./install.sh</code></pre>
+<pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT2023/main/install.sh && chmod +x install.sh && ./install.sh</code></pre>
 
 ### INSTALL KEY -- > https://t.me/dotycat/427
 
