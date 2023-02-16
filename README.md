@@ -41,7 +41,7 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
      - BadVPN 1                : 7100               
      - BadVPN 2                : 7200               
      - BadVPN 3                : 7300               
-     - Proxy Squid             : 3128  
+     - Proxy Squid             : 3128 & 8000
      
 ### INSTALATION
 <pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT2023/install.sh && chmod +x install.sh && ./install.sh</code></pre>
