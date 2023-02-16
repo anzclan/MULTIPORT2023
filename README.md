@@ -6,6 +6,9 @@
      * OVH (DEBIAN 10/11) (REQ root Akses)
      * IDCLOUDHOST (REQ root Akses)
      
+### RECOMMENDATION OS
+     * DEBIAN 10
+
 ## YOU CAN USE THIS TO GET ROOT AKSES
 <pre></code>sudo su
 wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</code></pre>
