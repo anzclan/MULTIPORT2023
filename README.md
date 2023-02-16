@@ -1,5 +1,15 @@
 # MULTIPORT VPN V2023
 
+## TESTED VPS
+     - DIGITALOCEAN (DEBIAN 10/11)
+     - AWS (DEBIAN 10 / UBUNTU - SSH WS NOT WORKING ON UBUNTU)
+     - OVH (DEBIAN 10/11) (REQ root Akses)
+     - IDCLOUDHOST (REQ root Akses)
+     
+     - YOU CAN USE THIS TO GET ROOT AKSES
+     <pre></code>sudo su
+wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</code></pre>
+
 ## PORT INFO
      - Open SSH                : 443, 80, 22        
      - Dropbear                : 443, 109, 143      
