@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
      - OpenVPN TCP             : 443, 1194          
      - OpenVPN UDP             : 2200               
      - Nginx Webserver         : 443, 80, 81        
-     - Haproxy Loadbalancer    : 443, 80            
+     - Proxy Loadbalancer      : 443, 80            
      - DNS Server              : 443, 53,           
      - DNS Client              : 443, 88            
      - OpenVPN Websocket SSL   : 443                
