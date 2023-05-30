@@ -1,7 +1,7 @@
-# MULTIPORT VPN V2023
+# MULTIPORT VPN 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anzclan/MULTIPORT2023/main/ss.png" />
+  <img src="https://raw.githubusercontent.com/akubudakgerik/MULTIPORT/main/ss.png" />
 </p>
 
 ## TESTED VPS
@@ -48,9 +48,9 @@ wget https://raw.githubusercontent.com/anzclan/ovh-root/main/root && bash root</
      - Proxy Squid             : 3128 & 8000
      
 ### INSTALATION
-<pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT2023/main/install.sh && chmod +x install.sh && ./install.sh</code></pre>
+<pre><code>apt update && apt upgrade -y && apt install curl -y && apt install -y wget screen && wget https://raw.githubusercontent.com/anzclan/MULTIPORT/main/install.sh && chmod +x install.sh && ./install.sh</code></pre>
 
-### INSTALL KEY -- > https://t.me/dotycat/427
+### INSTALL KEY -- > https://t.me/akubudakgerik
 
 ## VERSION
 V1.6.1 - 16/02/2023
@@ -59,5 +59,5 @@ V1.6.1 - 16/02/2023
    - SOCKS (ceck user, View User config, Renew Users , etc)
    
 ## BUY ME A COFFEE (Donate:)
-<p align="center"><img src="https://raw.githubusercontent.com/anzclan/MULTIPORT2023/main/ss.jpg" width="280" height="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akubudakgerik/MULTIPORT/main/ss.jpg" width="280" height="400"></p>
 <p>
